@@ -1,0 +1,3 @@
+export MAIL_ADDRESS="..."
+export ADMIN_USER_NAME="..."
+export ADMIN_USER_PASSWORD="..."
